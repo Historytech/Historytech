@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Historytech professora de Pensamento Computacional
-- 👀 I’m interested in  aprender programação
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, meu nome é **Priscila** sou @Historytech professora de Pensamento Computacional
+- 👀 Tenho interesse em aprender programação
+- 🌱 I’m currently learning  programar Scratch e Java Script
