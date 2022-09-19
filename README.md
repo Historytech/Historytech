@@ -1,3 +1,3 @@
 - 👋 Olá, meu nome é **Priscila** sou @Historytech professora de Pensamento Computacional
 - 👀 Tenho interesse em aprender programação
-- 🌱 I’m currently learning  programar Scratch e Java Script
+- 🌱 I’m currently learning  programar *Scratch*, *Java Script*, *CSS* e *HTML*.
